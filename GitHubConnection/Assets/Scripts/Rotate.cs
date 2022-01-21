@@ -6,6 +6,8 @@ public class Rotate : MonoBehaviour
 {
     public GameObject Target;
 
+    public GameObject ppp;
+
     // Start is called before the first frame update
     void Start()
     {
